@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vigilate/static/css/main.270ce64c.css",
+    "main.js": "/vigilate/static/js/main.c2d1cee2.js",
+    "static/js/787.f833b7b0.chunk.js": "/vigilate/static/js/787.f833b7b0.chunk.js",
+    "static/media/watch2.png": "/vigilate/static/media/watch2.7c5c5a21f2026b77f2c6.png",
+    "static/media/watch3.png": "/vigilate/static/media/watch3.c15e4c7b79e42f880870.png",
+    "static/media/event.jpeg": "/vigilate/static/media/event.ec3e903fe6d73e784b88.jpeg",
+    "static/media/watch.png": "/vigilate/static/media/watch.b4721ff14c43bca5f09a.png",
+    "static/media/watch5.png": "/vigilate/static/media/watch5.13389093e2f23eec5e52.png",
+    "static/media/heroImg.png": "/vigilate/static/media/heroImg.0681116bade060d6851a.png",
+    "static/media/watch1.png": "/vigilate/static/media/watch1.8fae952c9a3241cf68eb.png",
+    "static/media/watch4.png": "/vigilate/static/media/watch4.23150b20a59d1870368d.png",
+    "static/media/watch6.png": "/vigilate/static/media/watch6.7614c53dd702cba8cac1.png",
+    "static/media/watch7.png": "/vigilate/static/media/watch7.e8cb8d705f408c75b3b8.png",
+    "static/media/logo.svg": "/vigilate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vigilate/index.html",
+    "main.270ce64c.css.map": "/vigilate/static/css/main.270ce64c.css.map",
+    "main.c2d1cee2.js.map": "/vigilate/static/js/main.c2d1cee2.js.map",
+    "787.f833b7b0.chunk.js.map": "/vigilate/static/js/787.f833b7b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.270ce64c.css",
+    "static/js/main.c2d1cee2.js"
+  ]
+}
