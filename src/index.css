@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@1&display=swap');
+
+
+:root{
+  --right: 'Comfortaa', cursive;
+  --italic: 'IM Fell English', serif;
+}
+
+html{
+  scroll-behavior: smooth;
+  overflow-x: hidden !important;
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  overflow-x: hidden !important;
+  background-color: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Monoton&display=swap');
+
+.hero{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    padding: 0% 4%
+}
+
+.hero-title{
+    font-size: 8rem;
+    margin-top: 45%
+}
+
+.Btn{
+    border: none;
+}
+
+.redBtn{
+    background-color: red;
+    color: white;
+    border-radius: 100rem;
+    font-family: var(--right);
+    font-weight: 800;
+    padding: 2% 4%;
+    font-size: 1.2rem;
+}
+
+.whiteBtn{
+    background-color: white;
+    color: red;
+    border-radius: 100rem;
+    font-family: var(--right);
+    font-weight: 800;
+    padding: 2% 4%;
+    font-size: 1.2rem;
+}
+
+.marquee{
+    background-color: black;
+    color: white;
+}
+
+marquee{
+    font-size: 3rem;
+}
+
+.fancy{
+    font-family: 'Monoton', cursive;
+}
+
+.non-fancy{
+    font-weight: 800;
+}
+
+.best-sellers{
+    padding: 2% 5%;
+    margin-top: 5%;
+}
+
+.offer{
+    background-color: red;
+    color: white;
+    font-family: var(--right);
+    font-weight: bolder;
+    padding: 4% 5%;
+    margin-top: 4%;
+    margin-bottom: 5%;
+}
+
+.offer h1{
+    font-size: 3rem;
+}
+
+.blackBtn{
+    background-color: black;
+    color: red;
+    border-radius: 100rem;
+    font-family: var(--right);
+    font-weight: 800;
+    padding: 2% 4%;
+    font-size: 1.2rem;
+}
+
+.card{
+    border-radius: 2rem;
+}
+
+.section-header{
+    color: white;
+    font-weight: 900;
+    font-size: 3.4rem;
+    margin-bottom: 2%;
+}
+
+.card-title{
+    font-size: 1.8rem;
+    font-family: var(--right);
+}
+
+.redBtn:hover{
+    background-color: red;
+    color: white;
+    border-radius: 100rem;
+    font-family: var(--right);
+    font-weight: 800;
+    padding: 2% 4%;
+    font-size: 1.2rem;
+}
+
+.btn{
+    font-family: sans-serif !important;
+    font-weight: normal !important;
+}
+
+.event{
+    background-color: red;
+    margin-top: 5%;
+    padding: 2% 5%;
+}
+
+.event h1{
+    color: white;
+    font-weight: 900;
+    font-size: 4rem;
+}
+

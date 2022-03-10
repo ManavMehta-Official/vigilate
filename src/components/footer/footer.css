@@ -1,0 +1,71 @@
+.perk{
+    color: white;
+    font-family: var(--right);
+    padding: 5% 5%;
+}
+
+.perks{
+    background-color: rgb(59, 59, 59);
+    margin-top: 5%;
+    padding: 1% 5%
+}
+
+.footer{
+    padding: 2% 5%;
+}
+
+.subscribe{
+    font-family: var(--right);
+    background-color: red;
+    color: white;
+    padding: 2% 4%;
+    border-radius: 2rem;
+}
+
+.footer-heading{
+    color: white;
+    font-family: var(--right);
+    font-size: 1.6rem;
+}
+
+.testimonial{
+    background-color: red;
+    padding: 2% 5%
+}
+
+.testimonial .card{
+    border-radius: 1rem;
+    border: none;
+    padding: 1% 4%
+}
+
+.carousel-inner{
+    padding: 0% 5%;
+}
+
+.carousel-item{
+    padding: 4% 8%;
+}
+
+.testimonial h1{
+    color: white;
+    font-family: var(--right);
+    font-size: 3rem;
+    text-align: center;
+}
+
+.rated{
+    color: rgb(255, 208, 0);
+}
+
+.unrated{
+    color: rgb(194, 194, 194);
+}
+
+.footer-link{
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    text-decoration: underline;
+}
